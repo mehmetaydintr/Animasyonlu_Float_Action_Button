@@ -91,7 +91,7 @@ Animasyonlar, uygulamaları görsel olarak daha şık ve hoş bir görünüme ka
 
 ![6](https://user-images.githubusercontent.com/37263322/117293365-f20ac500-ae79-11eb-8214-ffe17c127ba4.PNG)
        
-  + Animasyon nesnesi oluşturalım.
+  + Animasyon nesnelerini oluşturalım.
     
 ```
     ileridon = AnimationUtils.loadAnimation(this, R.anim.ileridon);
