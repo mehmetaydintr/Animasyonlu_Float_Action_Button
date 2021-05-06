@@ -1,6 +1,6 @@
 # Animasyonlu Floating Action Button
 
-![untitled](https://user-images.githubusercontent.com/37263322/117293859-9db41500-ae7a-11eb-88d4-b6a9ad7e8a3d.gif)
+<img src="https://user-images.githubusercontent.com/37263322/117293859-9db41500-ae7a-11eb-88d4-b6a9ad7e8a3d.gif" width="300">
 
 ## İçerik
 
