@@ -6,7 +6,7 @@
 
 1. [Kullanılan Teknolojiler](https://github.com/mehmetaydintr/Animasyonlu_Floating_Action_Button/blob/main/README.md#kullan%C4%B1lan-teknolojiler)
 2. [Proje Tanımı](https://github.com/mehmetaydintr/Animasyonlu_Floating_Action_Button/blob/main/README.md#proje-tan%C4%B1m%C4%B1)
-3. [Kod Tanımı](https://github.com/mehmetaydintr/Bayrak_Quiz_App/blob/main/README.md#kod-tan%C4%B1m%C4%B1)
+3. [Kod Tanımı](https://github.com/mehmetaydintr/Animasyonlu_Floating_Action_Button/blob/main/README.md#kod-tan%C4%B1m%C4%B1)
 
 ## Kullanılan Teknolojiler
 
