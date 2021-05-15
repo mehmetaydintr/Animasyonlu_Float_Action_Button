@@ -6,6 +6,7 @@
 
 1. [Kullanılan Teknolojiler](https://github.com/mehmetaydintr/Animasyonlu_Floating_Action_Button/blob/main/README.md#kullan%C4%B1lan-teknolojiler)
 2. [Proje Tanımı](https://github.com/mehmetaydintr/Animasyonlu_Floating_Action_Button/blob/main/README.md#proje-tan%C4%B1m%C4%B1)
+3. [Kod Tanımı](https://github.com/mehmetaydintr/Bayrak_Quiz_App/blob/main/README.md#kod-tan%C4%B1m%C4%B1)
 
 ## Kullanılan Teknolojiler
 
@@ -25,6 +26,8 @@ Android uygulamalarında kullanılan animasyon işlemleri kullanılarak gelişti
 ![Image of Android Studio](https://lh3.googleusercontent.com/proxy/LVpV42NxM_jeKb3-hb6IpWic0gH97s-mIe2reqx-BOxxMifI6rMDJOYWwSQMCDe9zP002AIAqTeE9nDmkE2WBYU1_I0ssYsaKIpxHfapGuwgTpA9pSoC)
 
 Animasyonlar, uygulamaları görsel olarak daha şık ve hoş bir görünüme kavuştururlar. Çok çeşitli animasyonlar yapabiliriz. Bu projede basit bir örnek ile android **_Floating Action Button_** üzerinde nasıl animasyonlar yapabileceğimize dair küçük bir örnek yaptım.
+
+## Kod Tanımı
 
 1. İlk olarak uygulamamız dizininde `res\anim` klasörü oluşturuyoruz.
 
